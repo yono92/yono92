@@ -16,7 +16,7 @@
 
 ```yaml
 name: yono92
-role: Full Stack Developer
+role: BackEnd Developer
 location: South Korea 🇰🇷
 current_focus: "Building robust backend services with Java & Spring Boot"
 ```
